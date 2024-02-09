@@ -1,1 +1,1 @@
-hello lab-git
+hello lab
